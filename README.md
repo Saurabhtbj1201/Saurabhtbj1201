@@ -3,7 +3,6 @@
 - 👀 I’m interested in PROGRAMMIN (Python)
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Saurabhtbj143@gmail.com 
-t
 
 <!---
 Saurabhtbj1201/Saurabhtbj1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
