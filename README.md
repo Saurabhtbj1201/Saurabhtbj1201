@@ -84,10 +84,8 @@ As a student, I pride myself on being hardworking and determined. I believe that
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=@Saurabhtbj1201&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=@Saurabhtbj1201&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@Saurabhtbj1201&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saurabhtbj1201&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=@Saurabhtbj1201&theme=neon&no-frame=false&no-bg=false&margin-w=4)
@@ -95,8 +93,8 @@ As a student, I pride myself on being hardworking and determined. I believe that
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=@Saurabhtbj1201&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtbj1201&layout=compact&theme=radical)
 
 
 
