@@ -57,7 +57,7 @@
 ---
 - 🧾 **Portfolio Website** – [www.gu-saurabh.tech](https://www.gu-saurabh.tech)  
 - 📄 **Resume (PDF)** – [View](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
-- 📁 **Project Repository** – [All Projects list]([https://github.com/Saurabhtbj1201/projects])
+- 📁 **Project Repository** – [All Projects list](https://github.com/Saurabhtbj1201/projects)
 
 ---
 
