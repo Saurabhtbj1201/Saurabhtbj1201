@@ -7,18 +7,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-```html
-🎓 I'm currently pursuing my BCA at Galgotias University (2023–2026).  
-💻 I'm passionate about Frontend Development and Data Analytics.  
-👨‍💼 Currently serving as Design Lead at Devsource Community.  
-💡 I believe in consistent growth through learning, collaboration, and innovation.  
-🎯 Dedicated to solving real-world problems through impactful projects.
-```
-
----
-
 ### 🚧 Currently Working On
 
 - 💻 **Developing Full Stack Web Applications**  
@@ -61,23 +49,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabhtbj1201&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtbj1201&layout=compact&theme=radical" width="350"/>
-</p>
-
----
-
-### ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -93,24 +64,3 @@
 </p>
 
 ---
-
-### 🧠 Skill Ratings (Self-Assessment)
-
-| Skill Type            | Proficiency |
-|-----------------------|-------------|
-| 🔧 Technical Skills    | 90%         |
-| 🧩 Problem Solving     | 88%         |
-| 📊 Analytical Skills   | 95%         |
-| 🧠 Domain Knowledge    | 85%         |
-| 📋 Project Management  | 80%         |
-| 💬 Communication & Soft Skills | 70% |
-
----
-
-### 🔢 Profile Visit Counter
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Saurabhtbj1201&label=Profile%20Views&color=6&icon=0&pretty=true" />
-  </a>
-</p>
