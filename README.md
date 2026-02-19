@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Saurabh Kumar</h1>
-<h3 align="center">🚀 BCA Student | Frontend Developer | Data Analyst | Design Lead @saurabhtbj1201 </h3>
+<h3 align="center">Pre Finalist SIH*25 | Final Year BCA Student |  Data Analyst & FullStack Developer <br>
+Design Lead @saurabhtbj1201 </h3>
 
 <p align="center">
   <i>"Passionate about building real-world tech solutions, I combine design thinking and coding to craft impactful user experiences and data-driven applications."</i>
@@ -8,7 +9,6 @@
 ---
 ### 🧰 Tech Stack & Tools
 <p align="left">
-
   <!-- Programming Languages -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -108,69 +108,163 @@
 
 ---
 
-### 🚧 Currently Working On
+### 👨‍💻 Who Am I?
 
-- 💻 **Developing Full Stack Web Applications**  
-  Using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to build robust and scalable solutions.
+I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analytics</b></mark> & <mark><b>Full Stack Development.</b></mark> I enjoy working at the intersection of <u><i>Design</u> + <u>Development</u> + <u>Data</i></u> to create applications that are not only functional but impactful.
 
-- 📊 **Building and Training Machine Learning Models**  
-  Working on real-world use cases such as **Spam Detection** and **Personalized Recommendations** using **Python**, **Scikit-learn**, and **Natural Language Processing (NLP)**.
-
-- 🎨 **Designing UI/UX Interfaces**  
-  Creating modern, responsive, and intuitive designs using tools like **Figma**, with a focus on **accessibility**, **performance**, and **user experience**.
-
-- 🧠 **Practicing Data Structures & Algorithms (DSA)**  
-  Solving problems on platforms like **LeetCode** and **GeeksforGeeks** to enhance core logic and problem-solving abilities.
+<p align="center">
+  <b><i>A passionate technologist who believes in turning ideas into scalable digital solutions.</i></b>
+</p>
 
 ---
 
-- 🧾 **Portfolio Website** – [www.gu-saurabh.tech](https://www.gu-saurabh.tech)  
+## 📌 Additional Resources
+
+- 🌐 **Portfolio Website** – [www.gu-saurabh.site](https://www.gu-saurabh.site)  
 - 📄 **Resume (PDF)** – [View](https://res.cloudinary.com/drek4lbtc/raw/upload/v1759686617/portfolio/resume/resume_1759686611354.pdf)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
-- 📁 **View My Projects** – [All Projects list](https://saurabhtbj1201.github.io/projects/)
+- 📁 **View My Projects** – [All Projects list](https://projects.gu-saurabh.site/)
 
 ---
 
-### 🔗 Connect With Me
+## ⭐ Top 5 Projects (Personal)
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">🌟</th>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th align="center">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">⭐⭐⭐⭐⭐</td>
+      <td><strong>MindSpace – Digital Mental Health Support Platform</strong></td>
+      <td>AI-powered digital mental health support platform designed specifically for students.</td>
+      <td align="center">
+        <a href="https://mindspace.gu-saurabh.site/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0077B5?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">⭐⭐⭐⭐⭐</td>
+      <td><strong>MegaBasket E-commerce Platform</strong></td>
+      <td>Full-featured e-commerce platform with user, admin, cart, and order tracking functionality.</td>
+      <td align="center">
+        <a href="https://www.megabasket.me/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C851?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">⭐⭐⭐⭐⭐</td>
+      <td><strong>Certificate Generation Platform</strong></td>
+      <td>Fully automated certificate generation and verification platform.</td>
+      <td align="center">
+        <a href="https://galgotias.gu-saurabh.site/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-FF6F00?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">⭐⭐⭐⭐⭐</td>
+      <td><strong>Real Time Chat Application</strong></td>
+      <td>Real-time chat app to message friends instantly with profile creation and online status.</td>
+      <td align="center">
+        <a href="https://master.d1mxcnht7o30t1.amplifyapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-9C27B0?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">⭐⭐⭐⭐⭐</td>
+      <td><strong>NotePath – Modern Blogging Platform</strong></td>
+      <td>Modern blogging platform built for writers and readers to create, explore, and share high-quality content.</td>
+      <td align="center">
+        <a href="https://notepath-pi.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-D32F2F?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+🌐 <b>View All Projects Here:</b>  
+<a href="https://projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site
+</a><br>
+<i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Saurabhtbj1201/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Saurabh Kumar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Saurabh Kumar" height="40" width="50" />
   </a>
 
   <a href="https://x.com/saurabhtbj1201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - @saurabhtbj1201" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - @saurabhtbj1201" height="40" width="50" />
   </a>
 
   <a href="https://www.instagram.com/saurabhtbj1201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - saurabhtbj1201" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - saurabhtbj1201" height="40" width="50" />
   </a>
 
   <a href="https://saurabh1201.medium.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium - Saurabh Kumar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium - Saurabh Kumar" height="40" width="50" />
   </a>
 
   <a href="https://www.facebook.com/Saurabhtbj1201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Saurabh Kumar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Saurabh Kumar" height="40" width="50" />
   </a>
 
-  <a href="https://www.quora.com/profile/Saurabh-Kumar-17241" target="_blank">
-    <img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/quora.svg"
-        alt="Quora - Saurabh Kumar"
-        height="30" width="40" />
-  </a>
+  <a href="https://www.skills.google/public_profiles/976df5a2-a3ef-481a-8af0-be02efc9a94b" target="_blank">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       alt="Google Skill Badges - Saurabh Kumar"
+       height="40"
+       width="50" />
+</a>
 
-  <a href="https://saurabh-12.blogspot.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Blogger - Saurabh Kumar" height="30" width="40" />
-  </a>
+<a href="https://g.dev/Saurabh-g1" target="_blank" rel="noopener noreferrer">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+       alt="Google for Developers Profile"
+       height="40"
+       width="40" />
+</a>
 
-  <a href="https://www.gu-saurabh.tech" target="_blank">
+  <a href="https://www.gu-saurabh.site" target="_blank">
     <img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg"
-        alt="Portfolio Website" height="30" width="40" />
+        alt="Portfolio Website" height="40" width="50" />
   </a>
 
   <a href="https://wa.me/919798024301" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp - Saurabh Kumar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp - Saurabh Kumar" height="40" width="50" />
+  </a>
+
+   <a href="https://www.quora.com/profile/Saurabh-Kumar-17241" target="_blank">
+    <img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/quora.svg"
+        alt="Quora - Saurabh Kumar"
+        height="40" width="50" />
+  </a>
+
+  <a href="https://saurabh-12.blogspot.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Blogger - Saurabh Kumar" height="40" width="50" />
   </a>
 </p>
+
+<p align="center"> Designed with ❤️ by <a href="https://www.linkedin.com/in/saurabhtbj1201">Saurabh Kumar</a>.  
+   All Rights Reserved © 2026 </p>
+
+---
+
+<p align="center">
+✨ <b>Check out my pinned repositories to explore featured projects.👇👇👇
