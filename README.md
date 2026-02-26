@@ -112,19 +112,43 @@ Design Lead @saurabhtbj1201 </h3>
 
 I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analytics</b></mark> & <mark><b>Full Stack Development.</b></mark> I enjoy working at the intersection of <u><i>Design</u> + <u>Development</u> + <u>Data</i></u> to create applications that are not only functional but impactful.
 
+<details open align="center">
+  <summary>📈 Some Stats</summary> 
+<p align="center">
+<div align="center">
+ <a href="https://github.com/SpandanM110"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabhtbj1201&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saurabhtbj1201&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saurabhtbj1201&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saurabhtbj1201&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+</p >
+</details>
 <p align="center">
   <b><i>A passionate technologist who believes in turning ideas into scalable digital solutions.</i></b>
 </p>
 
 ---
 
-## 📌 Additional Resources
+<div>
+  <p>
+    <img width="300" align="left"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saurabhtbj1201&theme=2077">
+  </p>
 
-- 🌐 **Portfolio Website** – [www.gu-saurabh.site](https://www.gu-saurabh.site)  
-- 📄 **Resume (PDF)** – [View](https://res.cloudinary.com/drek4lbtc/raw/upload/v1759686617/portfolio/resume/resume_1759686611354.pdf)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
-- 📁 **View My Projects** – [All Projects list](https://projects.gu-saurabh.site/)
+  ## 📌 Additional Resources
+
+  - 🌐 **Portfolio Website** – [www.gu-saurabh.site](https://www.gu-saurabh.site) 
+  - 📄 **Resume (PDF)** – [View](https://res.cloudinary.com/drek4lbtc/raw/upload/v1759686617/portfolio/resume/resume_1759686611354.pdf)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
+  - 📁 **View My Projects** – [All Projects list](https://projects.gu-saurabh.site/)
+
+</div>
+<br clear="both"/>
 
 ---
+
 
 ## ⭐ Top 5 Projects (Personal)
 
