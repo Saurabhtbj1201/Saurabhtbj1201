@@ -187,7 +187,7 @@ I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analyt
       <td><strong>Certificate Generation Platform</strong></td>
       <td>Fully automated certificate generation and verification platform.</td>
       <td align="center">
-        <a href="https://galgotias.gu-saurabh.site/" target="_blank">
+        <a href="https://www.galgotias.gu-saurabh.site/" target="_blank">
           <img src="https://img.shields.io/badge/Live-FF6F00?style=flat&logo=google-chrome&logoColor=white" alt="Live"/>
         </a>
       </td>
@@ -217,7 +217,7 @@ I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analyt
 
 <p align="center">
 🌐 <b>View All Projects Here:</b>  
-<a href="https://projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site
+<a href="https://www.projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site
 </a><br>
 <i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
 </p>
