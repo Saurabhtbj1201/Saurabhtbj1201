@@ -141,7 +141,7 @@ I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analyt
   ## 📌 Additional Resources
 
   - 🌐 **Portfolio Website** – [www.gu-saurabh.site](https://www.gu-saurabh.site) 
-  - 📄 **Resume (PDF)** – [View](https://res.cloudinary.com/drek4lbtc/raw/upload/v1759686617/portfolio/resume/resume_1759686611354.pdf)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
+  - 📄 **Resume (PDF)** – [View](https://www.resume.gu-saurabh.site/)  |  [Download Here](https://www.gu-saurabh.tech/assets/Documents/Resume.pdf)  
   - 📁 **View My Projects** – [All Projects list](https://projects.gu-saurabh.site/)
 
 </div>
