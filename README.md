@@ -1,3 +1,4 @@
+<img src="Banner.png">                     
 <h1 align="center">👋 Hi, I'm <b>Saurabh Kumar</b></h1>
 
 <h3 align="center">
@@ -122,7 +123,7 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
 ---
 
 
-## ⭐ Features Projects (Personal)
+## ⭐ Features Projects
 
 <table>
   <thead>
@@ -130,93 +131,31 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
       <th align="center">S.No.</th>
       <th>Project Title</th>
       <th align="center">Live</th>
-      <th align="center">Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">1.</td>
-      <td><strong>MindSpace – Digital Mental Health Support Platform</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://mindspace.gu-saurabh.site/" target="_blank">
-          Live ⇲
-        </a>
+      <td>
+        <a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank"> <strong>MindSpace – Digital Mental Health Support Platform</strong>
+        <p>The objective of this project is to develop a complete online store system that</p>
       </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank">
-          Details ↗
-        </a>
-      </td>
+      <td align="center"><a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank"><img src=mindspace.png"/></a></td>
     </tr>
-        <tr>
+    <tr>
       <td align="center">2.</td>
-      <td><strong>MegaBasket – E-commerce Platform</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://www.megabasket.me/" target="_blank">
-          Live ⇲
-        </a>
-      </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/project/34b5ca34-cfc4-4734-8d33-5c54c47d6e11" target="_blank">
-          Details ↗
-        </a>
+      <td align="center"><a href="https://www.projects.gu-saurabh.site/project/34b5ca34-cfc4-4734-8d33-5c54c47d6e11" target="_blank"><img src="megabasket.png"/></a></td>
+      <td>
+        <a href="https://megabasket.me" target="_blank"> <strong>MegaBasket – E-commerce Platform</strong>
+        <p>The objective of this project is to develop a complete online store system that</p>
       </td>
     </tr>
     <tr>
       <td align="center">3.</td>
-      <td><strong>Certificate Generation Platform</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://www.galgotias.gu-saurabh.site/" target="_blank">
-          Live ⇲
-        </a>
+      <td> <a href="https://hms-admin.gu-saurabh.site" target="_blank"> <strong>Hospital Management System (HMS)</strong>
+      <p>The objective of this project is to develop a complete online store system that</p>
       </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/project/fc974097-5f62-4074-878e-042492ba4232" target="_blank">
-          Details ↗
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4.</td>
-      <td><strong>Real Time Chat Web Application</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://master.d1mxcnht7o30t1.amplifyapp.com/" target="_blank">
-          Live ⇲
-        </a>
-      </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/project/9cb6a04b-70b8-44ab-8186-d23532153143" target="_blank">
-          Details ↗
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5.</td>
-      <td><strong>NotePath – Modern Blogging Platform</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://notepath-pi.vercel.app/" target="_blank">
-          Live ⇲
-        </a>
-      </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/project/acacc41f-65cc-415c-b9ac-0bc10185830a" target="_blank">
-          Details ↗
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6.</td>
-      <td><strong>Hospital Management System (HMS)</strong></td>
-      <td align="center" style="color:#009e03;>
-        <a href="https://hms-admin.gu-saurabh.site" target="_blank">
-          Live ⇲
-        </a>
-      </td>
-      <td align="center" style="color:#e81c67;>
-        <a href="https://www.projects.gu-saurabh.site/opensource/contribute-hospital-management-system-hms" target="_blank">
-          Details ↗
-        </a>
-      </td>
+      <td align="center"><a href="https://www.projects.gu-saurabh.site/opensource/contribute-hospital-management-system-hms" target="_blank"><img src="hms.png"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -245,10 +184,11 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
 ---
 
 <p align="center" >
-🌐 <b>View All Projects Here:</b>  
-<a href="https://www.projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site
-</a><br>
-<i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
+  <a href="https://www.projects.gu-saurabh.site" target="_main"><img src="og-image.jpg"/></a>
+  🌐 <b>View All Projects Here:</b> 
+  <a href="https://www.projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site</a>
+  <br>
+  <i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
 </p>
 
 ---
@@ -262,7 +202,7 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
 <a href="https://www.facebook.com/Saurabhtbj1201" target="_main"><img src="https://img.icons8.com/fluency/48/facebook-new.png"/></a>
 <a href="https://www.skills.google/public_profiles/976df5a2-a3ef-481a-8af0-be02efc9a94b" target="_main"><img src="https://img.icons8.com/color/48/google-logo.png"/></a>
 <a href="https://g.dev/Saurabh-g1" target="_main"><img src="https://img.icons8.com/color/48/google-cloud.png"/></a>
-<a href="https://www.gu-saurabh.site" target="_main"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+<a href="https://www.gu-saurabh.site" target="_main"><img src="https://www.gu-saurabh.site/favicon/favicon-16x16.png"height="45"/></a>
 <a href="https://wa.me/919798024301" target="_main"><img src="https://img.icons8.com/fluency/48/whatsapp.png"/></a>
 <a href="https://www.quora.com/profile/Saurabh-Kumar-17241" target="_main"><img src="https://img.icons8.com/color/48/quora.png"/></a>
 <a href="https://saurabh-12.blogspot.com/" target="_main"><img src="https://img.icons8.com/color/48/blogger.png"/></a>
