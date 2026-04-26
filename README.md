@@ -11,8 +11,14 @@ Design Lead <b>@saurabhtbj1201</b>
   <i>"Passionate about building <b>real-world tech solutions</b>, I combine <b>design thinking</b> and <b>coding</b> to craft impactful <b>user experiences</b> and <b>data-driven applications</b>."</i>
 </p>
 
+### 👨‍💻 Who Am I?
+
+I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analytics</b></mark> & <mark><b>Full Stack Development.</b></mark> I enjoy working at the intersection of <u><i>Design</u> + <u>Development</u> + <u>Data</i></u> to create applications that are not only functional but impactful.
 <p>
 I combine <b>analytical thinking</b> with <b>practical implementation</b>, allowing me to not only <b>interpret data</b> but also <b>build systems</b> that utilize those insights effectively. My experience as a <b>Design Lead</b> further strengthens my ability to deliver <b>user-centric</b>, <b>efficient</b>, and <b>visually intuitive solutions</b>.
+</p>
+<p>
+I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b> or <b>Full-Stack Development</b>, where I can contribute to <b>business outcomes</b> through <b>data insights</b> and <b>robust application development</b>, while continuing to grow in a <b>dynamic, fast-paced environment</b>.
 </p>
 
 ---
@@ -78,12 +84,174 @@ I combine <b>analytical thinking</b> with <b>practical implementation</b>, allow
 
 ---
 
-### 👨‍💻 Who Am I?
-
-I am a <b>Final Year BCA Student</b> with a strong focus on <mark><b>Data Analytics</b></mark> & <mark><b>Full Stack Development.</b></mark> I enjoy working at the intersection of <u><i>Design</u> + <u>Development</u> + <u>Data</i></u> to create applications that are not only functional but impactful.
-<p>
-I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b> or <b>Full-Stack Development</b>, where I can contribute to <b>business outcomes</b> through <b>data insights</b> and <b>robust application development</b>, while continuing to grow in a <b>dynamic, fast-paced environment</b>.
+## 📂<b> My Projects</b>
+<p align="center" >
+  <a href="https://www.projects.gu-saurabh.site" target="_main"><img src="projects.png"/></a>
+  🌐 <b>View All Projects Here:</b> 
+  <a href="https://www.projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site</a>
+  <br>
+  <i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
 </p>
+<b></b>
+
+
+## ⭐ Features Projects
+<table>
+  <thead>
+    <tr>
+      <th align="center">S.No.</th>
+      <th width="50%">Project Title</th>
+      <th align="center" width="50%">Live</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Project 1 -->
+    <tr>
+      <td align="center">1.</td>
+      <td>
+        <a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank">
+          <strong>MindSpace – Digital Mental Health Support Platform</strong>
+        </a>
+        <p><b>Objective:</b> Develop a complete digital platform for mental health support.</p>
+        <ul>
+          <li>AI-powered mental health assistance</li>
+          <li>User-friendly and responsive UI</li>
+          <li>Secure authentication & data handling</li>
+          <li>Real-time support features</li>
+        </ul>
+      </td>
+      <td align="center">
+        <a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank">
+          <img src="mindspace.png"/>
+        </a>
+      </td>
+    </tr>
+    <!-- Project 2 -->
+    <tr>
+      <td align="center">2.</td>
+      <td align="center">
+        <a href="https://www.projects.gu-saurabh.site/project/34b5ca34-cfc4-4734-8d33-5c54c47d6e11" target="_blank">
+          <img src="megabasket.png"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://megabasket.me" target="_blank">
+          <strong>MegaBasket – E-commerce Platform</strong>
+        </a>
+        <p><b>Objective:</b> Develop a complete online store system.</p>
+        <ul>
+          <li>Full-stack MERN e-commerce application</li>
+          <li>Admin dashboard for product & order management</li>
+          <li>Secure authentication & payment flow</li>
+          <li>Cloud storage integration (Cloudinary)</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- Project 3 -->
+    <tr>
+      <td align="center">3.</td>
+      <td>
+        <a href="https://hms-admin.gu-saurabh.site" target="_blank">
+          <strong>Hospital Management System (HMS)</strong>
+        </a>
+        <p><b>Objective:</b> Develop a centralized healthcare management system.</p>
+        <ul>
+          <li>Patient, doctor, and appointment management</li>
+          <li>Role-based access control (Admin/Doctor/Receptionist)</li>
+          <li>Dashboard with real-time insights</li>
+          <li>Secure database integration</li>
+        </ul>
+      </td>
+      <td align="center">
+        <a href="https://www.projects.gu-saurabh.site/opensource/contribute-hospital-management-system-hms" target="_blank">
+          <img src="hms.png"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📝 College PROJECT's ZONE (Working on 30+ Persional Projects)
+
+<table>
+  <tr>
+    <th align="centre">Project Row I</th>
+    <th align="centre">Project Row II</th>
+  </tr>
+
+  <tr>
+    <td>🌐 Expense Tracker Web Application <a href="https://www.projects.gu-saurabh.site/project/f71cb5c4-75f3-41ec-a8d8-ff28530ecbd7">🔗</a></td>
+    <td>🌐 BuildNotes – MERN Blog Application <a href="https://www.projects.gu-saurabh.site/project/8b8bf098-344d-48a7-ae14-dc44e5a9d013">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Aadhaar Insight: Unlocking Societal Trends <a href="https://github.com/Saurabhtbj1201/Aadhaar-Insight">🔗</a></td>
+    <td>🌐 WhatsApp E-Commerce Order Automation System <a href="https://www.projects.gu-saurabh.site/project/780a895a-856c-4d9e-ab81-28c452df562f">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Vibrance - Dating Site Clone <a href="https://www.projects.gu-saurabh.site/project/6d375483-f161-4d3a-a401-48910861156b">🔗</a></td>
+    <td>🌐 Resume Builder Web Application <a href="https://www.projects.gu-saurabh.site/project/9c0e2898-fa60-4c96-bf06-8afcc71792be">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Election Education Assistant <a href="https://election-education-frontend-739772564426.asia-south1.run.app/">🔗</a></td>
+    <td>🌐 Social Media Sentiment Analysis <a href="https://www.projects.gu-saurabh.site/project/0cc92e70-ac00-4adf-a35a-6f187a767d14">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Mood Detection System <a href="https://www.projects.gu-saurabh.site/project/1451e528-8b43-4bc3-aa2a-e6fd8dbc5525">🔗</a></td>
+    <td>🌐 Full-Stack Portfolio Website <a href="https://www.projects.gu-saurabh.site/project/ec2ea278-0360-4b75-84a1-7b2226d23a03">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 AirNexa: Clean Air, Smarter Delhi NCR <a href="https://www.projects.gu-saurabh.site/project/2008ddbd-74f8-4930-8c67-95ba9530694f">🔗</a></td>
+    <td>🌐 DataVisCSV – CSV Data Visualizer <a href="https://www.projects.gu-saurabh.site/project/bdda2ab2-bd72-45be-abe8-69e2de55661d">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 College Event Hub <a href="https://www.projects.gu-saurabh.site/project/ff0a5027-e20a-4017-ab41-67b20a5e7bfe">🔗</a></td>
+    <td>🌐 EngiNotes – Notes Access Platform <a href="https://www.projects.gu-saurabh.site/project/e0055b6a-a255-4fc8-a766-3dfb8f4a3d07">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Ecommerce Admin Management System <a href="https://www.projects.gu-saurabh.site/project/66ac138f-7e45-46c3-bdf5-a9242731fabb">🔗</a></td>
+    <td>🌐 Personal Tech Portfolio <a href="https://www.projects.gu-saurabh.site/project/06cbd941-6d8d-4b6b-8c47-5c5ce8bbb377">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Markdown to PPTX Generator <a href="https://www.projects.gu-saurabh.site/project/7065b745-1c1f-4544-a2bc-690d7a2c3064">🔗</a></td>
+    <td>🌐 Linkverse – Personal Link Hub <a href="https://www.projects.gu-saurabh.site/project/776c8682-77b4-4023-b0ef-ddbed1d9606d">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Instagram Login Page Clone <a href="https://www.projects.gu-saurabh.site/project/21affe92-22b4-46a3-b3d5-169d4f6422d8">🔗</a></td>
+    <td>🌐 Voice Chatbot AI <a href="https://www.projects.gu-saurabh.site/project/081ae8bf-b42e-44c7-87a6-27129e4f3565">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Festive Web Page <a href="https://www.projects.gu-saurabh.site/project/ee1e955c-01d3-4bac-bcbe-5ffce03b5df9">🔗</a></td>
+    <td>🌐 Climate Changer Theme <a href="https://www.projects.gu-saurabh.site/project/65ece6dd-cd84-4903-8c1b-8efd3c06f912">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Digital Profile Hub <a href="https://www.projects.gu-saurabh.site/project/37bc4fc8-7d0a-450f-bbe9-f7135f248257">🔗</a></td>
+    <td>🌐 Holi Visual Effect – Interactive Background <a href="https://www.projects.gu-saurabh.site/project/8efcfc58-0c1b-47c8-ba59-339211fa18f4">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Leap Year Checker <a href="https://www.projects.gu-saurabh.site/project/53c1e9a5-d729-4825-b0f5-68edbfe26f75">🔗</a></td>
+    <td>🌐 Animated Login Page <a href="https://www.projects.gu-saurabh.site/project/e27bd4ec-1df4-4059-9748-5fa6afff2a67">🔗</a></td>
+  </tr>
+
+  <tr>
+    <td>🌐 Tic-Tac-Toe Game <a href="https://www.projects.gu-saurabh.site/project/b8ffe5ca-da49-438e-a85b-754753cd2297">🔗</a></td>
+    <td>🌐 Flight Travel Webpage <a href="https://www.projects.gu-saurabh.site/project/05e50ead-b1b6-46d2-815f-4f6e0729aebb">🔗</a></td>
+  </tr>
+
+</table>
+
+---
 
 <details open align="center">
   <summary>📈 Some Stats</summary> 
@@ -122,77 +290,6 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
 
 ---
 
-
-## ⭐ Features Projects
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">S.No.</th>
-      <th>Project Title</th>
-      <th align="center">Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1.</td>
-      <td>
-        <a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank"> <strong>MindSpace – Digital Mental Health Support Platform</strong>
-        <p>The objective of this project is to develop a complete online store system that</p>
-      </td>
-      <td align="center"><a href="https://www.projects.gu-saurabh.site/opensource/MindSpace" target="_blank"><img src=mindspace.png"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">2.</td>
-      <td align="center"><a href="https://www.projects.gu-saurabh.site/project/34b5ca34-cfc4-4734-8d33-5c54c47d6e11" target="_blank"><img src="megabasket.png"/></a></td>
-      <td>
-        <a href="https://megabasket.me" target="_blank"> <strong>MegaBasket – E-commerce Platform</strong>
-        <p>The objective of this project is to develop a complete online store system that</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3.</td>
-      <td> <a href="https://hms-admin.gu-saurabh.site" target="_blank"> <strong>Hospital Management System (HMS)</strong>
-      <p>The objective of this project is to develop a complete online store system that</p>
-      </td>
-      <td align="center"><a href="https://www.projects.gu-saurabh.site/opensource/contribute-hospital-management-system-hms" target="_blank"><img src="hms.png"/></a></td>
-    </tr>
-  </tbody>
-</table>
-
-## 📝 College PROJECT's ZONE (Working on 30+ Persional Projects)
-
-| Project Row I                        | Project Row II      |
-|------------------------------------|----------------------------------------|
-| 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
-| 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) | 
-| 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) | 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) | 
-| 🌐 MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) | 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/) | 
-| 🌐 Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) | 🌐 MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/) | 
-| 🌐 Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) | 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) |
-| 🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) | 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) | 
-| 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) | 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) | 
-| 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) | 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) |
-| 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) | 🌐 RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) | 
-| 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) | 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) | 
-| 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/) | 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/) | 
-| 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
-| 🌐 MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)
-
-
----
-
-<p align="center" >
-  <a href="https://www.projects.gu-saurabh.site" target="_main"><img src="og-image.jpg"/></a>
-  🌐 <b>View All Projects Here:</b> 
-  <a href="https://www.projects.gu-saurabh.site" target="_blank"> projects.gu-saurabh.site</a>
-  <br>
-  <i>“Every project reflects innovation, problem-solving, and continuous growth.”</i>
-</p>
-
----
-
 ## 📧 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/Saurabhtbj1201/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -218,6 +315,3 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
     <img src="https://komarev.com/ghpvc/?username=Saurabhtbj1201">
 </a>
 <a href="https://github.com/Saurabhtbj1201?tab=followers"><img src="https://img.shields.io/github/followers/Saurabhtbj1201?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<p align="center">
-✨ <b>Check out my pinned repositories to explore featured projects.👇👇👇
