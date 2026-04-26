@@ -253,6 +253,62 @@ I am currently seeking an <b>entry-level opportunity</b> in <b>Data Analytics</b
 
 ---
 
+## 🎥 Recent YouTube Videos
+
+<table width="100%">
+<tr>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=6-NHroa6DVQ" target="_blank">
+<img src="https://img.youtube.com/vi/6-NHroa6DVQ/0.jpg" width="100%" align="top">
+AI Mental Health Support Platform for Students
+</a>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=KlBHHiOA-Rs" target="_blank">
+<img src="https://img.youtube.com/vi/KlBHHiOA-Rs/0.jpg" width="100%" align="top">
+Certificate Generation Website | Full Stack Web App Demo
+</a>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=-UrgGuim9ZA" target="_blank">
+<img src="https://img.youtube.com/vi/-UrgGuim9ZA/0.jpg" width="100%" align="top">
+Email Spam Detection Project using Machine Learning
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=_fg5JgU3eSM" target="_blank">
+<img src="https://img.youtube.com/vi/_fg5JgU3eSM/0.jpg" width="100%" align="top">
+Full-Stack Resume Builder Web App Demo
+</a>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=_fg5JgU3eSM" target="_blank">
+<img src="https://img.youtube.com/vi/_fg5JgU3eSM/0.png" width="100%" align="top">
+Comming Soon
+</a>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://www.youtube.com/watch?v=_fg5JgU3eSM" target="_blank">
+<img src="https://img.youtube.com/vi/_fg5JgU3eSM/0.png" width="100%" align="top">
+Comming Soon
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
 <details open align="center">
   <summary>📈 Some Stats</summary> 
 <p align="center">
