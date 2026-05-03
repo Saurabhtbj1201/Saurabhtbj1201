@@ -291,9 +291,9 @@ Full-Stack Resume Builder Web App Demo
 </td>
 
 <td align="center" valign="top" width="33.33%">
-<a href="https://www.youtube.com/watch?v=_fg5JgU3eSM" target="_blank">
-<img src="https://img.youtube.com/vi/_fg5JgU3eSM/0.png" width="100%" align="top">
-Comming Soon
+<a href="https://www.youtube.com/watch?v=VL9DZXtsX2E" target="_blank">
+<img src="https://img.youtube.com/vi/VL9DZXtsX2E/0.jpg" width="100%" align="top">
+WhatsApp Order Automation System | n8n + AI + Google Sheets
 </a>
 </td>
 
