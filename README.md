@@ -300,7 +300,7 @@ WhatsApp Order Automation System | n8n + AI + Google Sheets
 <td align="center" valign="top" width="33.33%">
 <a href="https://www.youtube.com/watch?v=61yZztWfxWQ" target="_blank">
 <img src="https://img.youtube.com/vi/61yZztWfxWQ/0.jpg" width="100%" align="top">
-Comming Soon
+LexiShield — GenAI Legal Document Navigator & Risk Radar | PromptWars Demo
 </a>
 </td>
 
