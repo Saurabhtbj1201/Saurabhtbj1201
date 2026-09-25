@@ -284,9 +284,9 @@ Email Spam Detection Project using Machine Learning
 <tr>
 
 <td align="center" valign="top" width="33.33%">
-<a href="https://www.youtube.com/watch?v=_fg5JgU3eSM" target="_blank">
-<img src="https://img.youtube.com/vi/_fg5JgU3eSM/0.jpg" width="100%" align="top">
-Full-Stack Resume Builder Web App Demo
+<a href="https://www.youtube.com/watch?v=ZOphMyBIP94" target="_blank">
+<img src="https://img.youtube.com/vi/ZOphMyBIP94/0.jpg" width="100%" align="top">
+Workforce Insights Dashboard | Power BI & RAG | Project Demo
 </a>
 </td>
 
